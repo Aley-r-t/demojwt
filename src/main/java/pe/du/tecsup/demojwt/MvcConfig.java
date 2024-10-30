@@ -1,2 +1,4 @@
-package pe.du.tecsup.demojwt;public class MvcConfig {
+package pe.du.tecsup.demojwt;
+
+public class MvcConfig {
 }

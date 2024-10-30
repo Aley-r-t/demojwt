@@ -1,2 +1,4 @@
-package pe.du.tecsup.demojwt.util.paginator;public class PageRender {
+package pe.du.tecsup.demojwt.util.paginator;
+
+public class PageRender {
 }

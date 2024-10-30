@@ -1,2 +1,4 @@
-package pe.du.tecsup.demojwt.views;public class ClienteListXmlView {
+package pe.du.tecsup.demojwt.views;
+
+public class ClienteListXmlView {
 }

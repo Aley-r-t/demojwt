@@ -1,2 +1,4 @@
-package pe.du.tecsup.demojwt.views;public class FacturaXlsxView {
+package pe.du.tecsup.demojwt.views;
+
+public class FacturaXlsxView {
 }
